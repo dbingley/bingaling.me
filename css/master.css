@@ -1,0 +1,46 @@
+body{
+  background-color: #4da574;
+  font-family: "Arial", sans-serif;
+}
+.main-title{
+  text-align: center;
+}
+.page {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  padding: 60px 20px 20px;
+  margin: 0;
+  border-bottom: 20px solid black;
+
+}
+.primary-nav{
+  position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background: rgba(0,0,0,0);
+}
+
+.primary-nav ul{
+display: inline;
+  padding: 0;
+
+margin: 0;
+}
+
+.primary-nav li{
+  display inline-block;
+}
+
+.primary-nav a {
+
+  padding: 20px;
+  text-decoration: none;
+  background: rgb(120, 120, 120);
+
+
+
+}
