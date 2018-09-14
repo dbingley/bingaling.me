@@ -21,11 +21,10 @@ section{
     border-bottom: 2px solid #9fa8a3;
 
 }
-.catimage{
-  width: 500px;
-  height: 400px;
- transform: rotate(270deg);
+img{
+  max-width: 100%;
  
+
 }
 #primary-nav {
     position: fixed;
